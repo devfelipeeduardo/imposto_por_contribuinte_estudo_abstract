@@ -1,0 +1,14 @@
+c:\Users\Felipe\Desktop\estudo_csharp\imposto_cpf_ou_cnpj\bin\Debug\net8.0\imposto_cpf_ou_cnpj.exe
+C:\Users\Felipe\Desktop\estudo_csharp\imposto_cpf_ou_cnpj\bin\Debug\net8.0\imposto_cpf_ou_cnpj.deps.json
+C:\Users\Felipe\Desktop\estudo_csharp\imposto_cpf_ou_cnpj\bin\Debug\net8.0\imposto_cpf_ou_cnpj.runtimeconfig.json
+c:\Users\Felipe\Desktop\estudo_csharp\imposto_cpf_ou_cnpj\bin\Debug\net8.0\imposto_cpf_ou_cnpj.dll
+c:\Users\Felipe\Desktop\estudo_csharp\imposto_cpf_ou_cnpj\bin\Debug\net8.0\imposto_cpf_ou_cnpj.pdb
+c:\Users\Felipe\Desktop\estudo_csharp\imposto_cpf_ou_cnpj\obj\Debug\net8.0\imposto_cpf_ou_cnpj.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Felipe\Desktop\estudo_csharp\imposto_cpf_ou_cnpj\obj\Debug\net8.0\imposto_cpf_ou_cnpj.AssemblyInfoInputs.cache
+c:\Users\Felipe\Desktop\estudo_csharp\imposto_cpf_ou_cnpj\obj\Debug\net8.0\imposto_cpf_ou_cnpj.AssemblyInfo.cs
+c:\Users\Felipe\Desktop\estudo_csharp\imposto_cpf_ou_cnpj\obj\Debug\net8.0\imposto_cpf_ou_cnpj.csproj.CoreCompileInputs.cache
+c:\Users\Felipe\Desktop\estudo_csharp\imposto_cpf_ou_cnpj\obj\Debug\net8.0\imposto_cpf_ou_cnpj.dll
+c:\Users\Felipe\Desktop\estudo_csharp\imposto_cpf_ou_cnpj\obj\Debug\net8.0\refint\imposto_cpf_ou_cnpj.dll
+c:\Users\Felipe\Desktop\estudo_csharp\imposto_cpf_ou_cnpj\obj\Debug\net8.0\imposto_cpf_ou_cnpj.pdb
+C:\Users\Felipe\Desktop\estudo_csharp\imposto_cpf_ou_cnpj\obj\Debug\net8.0\imposto_cpf_ou_cnpj.genruntimeconfig.cache
+C:\Users\Felipe\Desktop\estudo_csharp\imposto_cpf_ou_cnpj\obj\Debug\net8.0\ref\imposto_cpf_ou_cnpj.dll

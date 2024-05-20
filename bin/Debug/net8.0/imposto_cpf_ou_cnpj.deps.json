@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "imposto_cpf_ou_cnpj/1.0.0": {
+        "runtime": {
+          "imposto_cpf_ou_cnpj.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "imposto_cpf_ou_cnpj/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
